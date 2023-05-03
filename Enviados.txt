@@ -1,0 +1,84 @@
+EU, Ricco, ricco.spicka@gmail.com
+DENISE, Denise, denise.spicka@gmail.com
+
+TECNOLOGIA, da W2Z, financeiro@w2z.com.br
+TECNOLOGIA, da W2Z, suporte@w2z.com.br
+TECNOLOGIA, da Luxfacta, comercial.br@luxfacta.com
+TECNOLOGIA, da DobesOne, contato@dobesone.com.br
+TECNOLOGIA, da DobesOne, rh@dobesone.com.br
+TECNOLOGIA, da GLITech, contato@glitech.com.br
+TECNOLOGIA, da Omegatron, vendas@omegatrontecnologia.com.br
+TECNOLOGIA, da SuperSoft, contato@supersoft.com.br
+TECNOLOGIA, da SuperSoft, suporte@supersoft.com.br
+TECNOLOGIA, da SuperSoft, ouvidoria@supersoft.com.br
+TECNOLOGIA, da SuperSoft, aline.marketing@supersoft.com.br
+TECNOLOGIA,  Rhodes, rosepaes@uol.com.br
+
+SUPERMERCADOS, da Brasil Frios, contato@brasilfrios.com.br
+SUPERMERCADOS, do Savegnago, atendimento@savegnago.com.br
+SUPERMERCADOS, do Savegnago, rh@savegnago.com.br
+SUPERMERCADOS, do Savegnago, recursoshumanos@savegnago.com.br
+SUPERMERCADOS, do Examine, supermercadoexamine@gmail.com
+SUPERMERCADOS, do Covabra, sac@covabra.com.br
+SUPERMERCADOS, do Assa&iacute;, dpo.assai@assai.com.br
+SUPERMERCADOS, do Paulist&atilde;o Atacadista, atendimento@paulistaoatacadista.com.br
+SUPERMERCADOS, do Atacad&atilde;o, faleconosco@atacadao.com.br
+SUPERMERCADOS, do Spani, faleconosco@spani.com.br
+SUPERMERCADOS, do Spani, eduardo.felix@grupozaragoza.com.br.
+
+CERÂMICAS, da Cristofoletti, exportacao@grupocristofoletti.com.br
+CERÂMICAS, da Cer&acirc;mica Almeida, almeida@ceramicaalmeida.com.br
+CERÂMICAS, da Vilagres, contato@villagres.com.br
+CERÂMICAS, da Cer&acirc;mica Delta, rh@deltaceramica.com.br
+CERÂMICAS, da Cer&acirc;mica Delta, assistecnica@deltaceramica.com.br
+CERÂMICAS, da Cer&acirc;mica Savane, faleconosco@savane.com.br
+CERÂMICAS,  do Grupo Embramaco, marketing@embramaco.com.br
+CERÂMICAS,  do Grupo Embramaco, rh@embramaco.com.br
+CERÂMICAS,  do Grupo Formigres, contato@formigres.com.br
+CERÂMICAS,  do Grupo Formigres, contato@formigres.com.br
+CERÂMICAS,  do Grupo Formigres, assistenciatecnica@formigres.com.br
+CERÂMICAS,  do Grupo Formigres, livia.vendas@formigres.com.br
+CERÂMICAS,  do Grupo Formigres, gesiane.vendas@formigres.com.br
+CERÂMICAS, da Delta Cer&acirc;mica, selecao@deltaceramica.com.br
+CERÂMICAS, da Delta Cer&acirc;mica, selecao1@deltaceramica.com.br
+
+EMPRESAS, da Whirlpool, rh_rc@whirlpool.com
+EMPRESAS, da Riclan, sac@riclan.com.br
+EMPRESAS, da Riclan, selecao@riclan.com.br
+EMPRESAS, da Tubopartes, cobel@escritoriocobel.com.br
+EMPRESAS, da Akdeniz Chemson, marilia.ciaramello@akdenizchemson.com
+EMPRESAS, da AskChemicals, jobs@ask-chemicals.com
+EMPRESAS, da AskChemicals, alexandre.zanfelice@ask-chemicals.com
+EMPRESAS, da AskChemicals, lucimara.santana@ask-chemicals.com
+EMPRESAS, da AskChemicals, rh.brazil@ask-chemicals.com
+EMPRESAS, da Arkema, contato.brasil@arkema.com
+EMPRESAS, da Arkema, edlaine.mengardo@arkema.com
+EMPRESAS, da Trebol, azangerolamo@gtrebol.com
+EMPRESAS, da Trebol, bvelazquez@gtrebol.com
+
+ESCOLAS, do Claretiano, secretaria@claretianorc.com.br
+ESCOLAS, do Claretiano, rh@claretianorc.com.br
+ESCOLAS, do Dagama, dagama@colegiodagama.com.br
+ESCOLAS, do Dagama, isler.gilvania@hotmail.com
+ESCOLAS, do Col&eacute;gio Adventista, rioclaro.sec@ucb.org.br
+ESCOLAS, do Col&eacute;gio Adventista, rioclaro@apac.org.br
+ESCOLAS, do Objetivo, contato@objetivorc.com.br
+ESCOLAS, do Objetivo, eliana.catae@objetivorc.com.br
+ESCOLAS, da Unip, contato@objetivorc.com.br
+ESCOLAS, da Anhanguera, ddi@kroton.com.br
+ESCOLAS, da Anhanguera, taciane.fardin@kroton.com.br
+ESCOLAS, da Col&eacute;gio Nazareno, colegionazarenorc@gmail.com
+ESCOLAS, do Dom Bosco, colegio@domboscorc.com.br
+ESCOLAS, do Col&eacute;gio Adventista, rioclaro.sec@ucb.org.br
+ESCOLAS, do Col&eacute;gio Alem, colegioalem@gmail.com
+ESCOLAS, do Koelle, colegiokoelle@colegiokoelle.com.br
+ESCOLAS, do Koelle, financeiro@colegiokoelle.com.br
+ESCOLAS, do Pur&iacute;ssimo, secretaria.purissimo@redeicm.org.br
+
+HOSPITAIS, do Santa Filomena, cv.ti@santafilomena.com.br
+HOSPITAIS, do Santa Filomena, rh@santafilomena.com.br
+HOSPITAIS, da Unimed Rio Claro, rh@unimedrioclaro.com.br
+HOSPITAIS, da Unimed Rio Claro, mariana@unimedrioclaro.com.br
+HOSPITAIS, da Santa Casa, ouvidoria@santacasaderioclaro.com.br
+HOSPITAIS, da Santa Casa, secretaria@santacasaderioclaro.com.br
+HOSPITAIS, da Santa Casa, rh@santacasaderioclaro.com.br
